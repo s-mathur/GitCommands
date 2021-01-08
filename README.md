@@ -22,6 +22,8 @@ Following are the  Git commands which are being covered:
 18. git pull
 19. git stash
 
+Git Commands
+
 1. git config
 Usage: git config –global user.name “[name]”
 Usage: git config –global user.email “[email address]”
